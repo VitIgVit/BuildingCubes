@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\vetal\\documents\\unreal projects\\buildingcubes\\buildingcubes\\source\\buildingcubes\\private\\character\\bc_c_character.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vetal\\documents\\unreal projects\\buildingcubes\\buildingcubes\\intermediate\\build\\win64\\buildingcubeseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\vetal\\documents\\unreal projects\\buildingcubes\\buildingcubes\\intermediate\\build\\win64\\unrealeditor\\development\\buildingcubes\\definitions.buildingcubes.h",
+            "c:\\users\\vetal\\documents\\unreal projects\\buildingcubes\\buildingcubes\\source\\buildingcubes\\public\\character\\bc_c_character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\vetal\\documents\\unreal projects\\buildingcubes\\buildingcubes\\intermediate\\build\\win64\\unrealeditor\\inc\\buildingcubes\\bc_c_character.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

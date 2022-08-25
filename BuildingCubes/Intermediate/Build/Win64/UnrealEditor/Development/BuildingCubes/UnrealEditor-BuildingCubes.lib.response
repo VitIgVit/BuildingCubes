@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BuildingCubes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Vetal\Documents\Unreal Projects\BuildingCubes\BuildingCubes\Intermediate\Build\Win64\BuildingCubesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Vetal\Documents\Unreal Projects\BuildingCubes\BuildingCubes\Intermediate\Build\Win64\UnrealEditor\Development\BuildingCubes\BC_C_Character.cpp.obj"
+"C:\Users\Vetal\Documents\Unreal Projects\BuildingCubes\BuildingCubes\Intermediate\Build\Win64\UnrealEditor\Development\BuildingCubes\BuildingCubes.cpp.obj"
+"C:\Users\Vetal\Documents\Unreal Projects\BuildingCubes\BuildingCubes\Intermediate\Build\Win64\UnrealEditor\Development\BuildingCubes\BC_C_Character.gen.cpp.obj"
+"C:\Users\Vetal\Documents\Unreal Projects\BuildingCubes\BuildingCubes\Intermediate\Build\Win64\UnrealEditor\Development\BuildingCubes\BuildingCubes.init.gen.cpp.obj"
+"C:\Users\Vetal\Documents\Unreal Projects\BuildingCubes\BuildingCubes\Intermediate\Build\Win64\UnrealEditor\Development\BuildingCubes\Default.rc2.res"
+/OUT:"C:\Users\Vetal\Documents\Unreal Projects\BuildingCubes\BuildingCubes\Intermediate\Build\Win64\UnrealEditor\Development\BuildingCubes\UnrealEditor-BuildingCubes.lib"
